@@ -2,96 +2,82 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Emily Bown
+    - name: Email
+      value: emily@bown.dev
+    - name: Phone
+      value: +447772711227
+    - name: Location
+      value: Norwich, Norfolk
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: CertHE Mathematics
+      institution: University of Reading
+      year: 2017
+
+- title: Skills
+  type: nested_list
+  contents:
+  - title: Core Competencies
+    items:
+    - HTML, CSS and JavaScript
+    - Node.js & npm
+    - TypeScript Development
+    - PHP Development
+    - WordPress
+    - Python and AutoHotkey Scripting
+  - title: Other Skills
+    items:
+    - Excel and VBA/Macros
+    - Google Apps Script
+    - SQL & MySQL
+  - title: Programs
+    items:
+    - Git & GitHub
+    - Microsoft Office Suite / Office 365
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Developer
+      institution: Purecontent
+      year: 2022 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Provided first-line technical support within the business
+        - Streamlined internal processes to save time and money
+        - Trained a team to manage CMS websites
+        - title: Job Duties
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Delivered projects to clients, including handovers and training clients in person, then providing remote support
+            - Identified areas to save time & money across the business, and proposed then implemented solutions
+            - Built new internal tools using Excel and VBA to assist person and project management
+            - Provided first-line IT support for all team members
+            - Trained new and existing employees in WordPress and Microsoft Office Suite
+        - title: Key Achievements
+          contents:
+            - Automated a large number of internal processes using Python and AutoHotkey scripting
+            - Built a project management system with automated monthly reporting to replace the manual process, increasing accuracy and saving time
+            - Created extensive documention which significantly reduced time required to train new starters
+    
+    - title: Administrator
+      institution: Suffolk Libraries
+      year: 2021 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Assisted the Volunteer Coordinator with the management of volunteers across all libraries in Suffolk
+        - title: Key Achievements
+          contents:
+            - Revamped the Home Library Service to track everything digitally, reducing the risk of lost books and allowing housebound customers to order books online for delivery
+            - Implemented a Long Service Award system by creating a spreadsheet to highlight volunteers reaching milestone years, and training the Volunteer Coordinator to use the sheet
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Personal Hobbies
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Cooking
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Time Management
+    - title: Old School Runescape
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Competitive Environment
+        - Game Engine Mastery
