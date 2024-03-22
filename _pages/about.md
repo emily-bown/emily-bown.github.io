@@ -6,7 +6,7 @@ subtitle: Developer
 
 profile:
   align: right
-  image: profile_pic_square.jpg
+  image: profile_pic_vertical.jpg
   image_circular: true # crops the image to make it circular
   address: >
     <p>Norwich, Norfolk</p>
