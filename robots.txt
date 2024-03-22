@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://emily-bown.github.io/sitemap.xml
+Sitemap: https://www.bown.dev/sitemap.xml
