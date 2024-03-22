@@ -3,10 +3,12 @@
   contents:
     - name: Full Name
       value: Emily Bown
+    - name: Title
+      value: Developer
     - name: Email
       value: emily@bown.dev
     - name: Phone
-      value: 07772711227
+      value: "07772711227"
     - name: Location
       value: Norwich, Norfolk
 
