@@ -6,7 +6,7 @@
     - name: Email
       value: emily@bown.dev
     - name: Phone
-      value: +447772711227
+      value: 07772711227
     - name: Location
       value: Norwich, Norfolk
 
@@ -81,6 +81,6 @@
       items:
         - Competitive Environment
         - Game Engine Mastery
-    - tile: Pokémon GO
+    - title: Pokémon GO
       items:
         - Strategy & Planning
