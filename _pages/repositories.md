@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: >
     <p>Due to the nature of my employment most projects cannot be shared publicly.</p>
-    <p>For more information please contact me using the links on the home page</p>
+    <p>For more information please contact me using the links on the home page.</p>
 nav: true
 nav_order: 4
 ---
